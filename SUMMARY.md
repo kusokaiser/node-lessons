@@ -5,5 +5,5 @@
 * [课程1](lesson1/README.md)
 * [课程2](lesson2/README.md)
 * [课程3](lesson3/README.md)
-* 课程4
+* [课程4](lesson4/README.md)
 
