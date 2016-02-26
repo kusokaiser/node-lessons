@@ -7,4 +7,5 @@
 * [课程3](lesson3/README.md)
 * [课程4](lesson4/README.md)
 * 课程5
+* 课程6
 
