@@ -14,7 +14,7 @@
 * [课程10](lesson10/README.md)
 * [课程11](lesson11/README.md)
 * [课程12](lesson12/README.md)
-* [课程13](lesson13/READEME.md)
+* [课程13](lesson13/README.md)
 * [课程14](lesson14/READEME.md)
 * [课程15](lesson15/READEME.md)
 * [课程16](lesson16/READEME.md)
