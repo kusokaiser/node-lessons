@@ -1,4 +1,4 @@
-# 《Node.js 包教不包会》 -- by alsotang
+# 《Node.js 教程》
 
 
 ## 为何写作此课程
