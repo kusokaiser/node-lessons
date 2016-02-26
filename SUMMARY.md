@@ -9,7 +9,7 @@
 * [课程5](lesson5/READEME.md)
 * [课程6](lesson6/READEME.md)
 * [课程7](lesson7/READEME.md)
-* 课程8
+* [课程8](lesson8/READEME.md)
 * 课程9
 * 课程10
 * 课程11
