@@ -10,8 +10,6 @@
 
 ## 广告
 
-本课程的更新信息可见我的微博：http://weibo.com/tangzhanli
-
 更多 Node.js 入门资料请前往：https://cnodejs.org/getstart
 
 新手搭建 Node.js 云主机，推荐使用无需备案的 [Linode(https://www.linode.com)](https://www.linode.com/?r=15ca84df052ab2ac2cc4ac21714969900782a827) 或 [DigitalOcean(https://www.digitalocean.com/)](https://www.digitalocean.com/?refcode=eba02656eeb3)
