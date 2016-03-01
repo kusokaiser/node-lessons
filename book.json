@@ -1,1 +1,13 @@
-{}
+{
+  "title": "NodeJS 中文指南",
+  "description": "nodejs",
+  "language": "zh",
+  "plugins": [
+    "disqus"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "kuso_kaiser"
+    }
+  }
+}
